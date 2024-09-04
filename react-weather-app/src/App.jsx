@@ -1,5 +1,3 @@
-// import React from 'react'
-
 import Weather from "./assets/components/Weather"
 
 const App = () => {

@@ -1,5 +1,3 @@
-// import React from 'react'
-// import React, {useEffect} from 'react'
 import {useEffect, useRef, useState} from 'react'
 import './Weather.css'
 import search_icon from '../../assets/search.png'
